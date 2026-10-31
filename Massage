@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joy Lima Therapy | Biodynamic Massage, Yoga Therapy & Coaching in Amsterdam</title>
+  <meta name="description" content="Biodynamic massage, yoga therapy and RES coaching in Amsterdam with Joy Lima. Book your session via WhatsApp.">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Georgia, 'Times New Roman', serif; color: #3d3a35; background: #faf7f2; line-height: 1.7; }
+    header { text-align: center; padding: 90px 20px 70px; background: linear-gradient(160deg, #e8efe3 0%, #f5ece0 100%); }
+    header h1 { font-size: 2.6rem; font-weight: normal; letter-spacing: 1px; color: #4a5d4a; }
+    header p { max-width: 560px; margin: 18px auto 32px; font-size: 1.15rem; color: #5c5a55; }
+    .btn { display: inline-block; background: #4a7c59; color: #fff; text-decoration: none; padding: 14px 32px; border-radius: 30px; font-family: Arial, sans-serif; font-size: 1rem; }
+    .btn:hover { background: #3b6347; }
+    section { max-width: 900px; margin: 0 auto; padding: 60px 20px; }
+    h2 { text-align: center; font-weight: normal; font-size: 1.8rem; color: #4a5d4a; margin-bottom: 30px; }
+    .about p { max-width: 640px; margin: 0 auto 16px; text-align: center; }
+    .services { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 24px; }
+    .card { background: #fff; border-radius: 14px; padding: 28px 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); text-align: center; }
+    .card h3 { font-weight: normal; font-size: 1.3rem; color: #4a5d4a; margin-bottom: 8px; }
+    .meta { font-family: Arial, sans-serif; font-size: 0.95rem; color: #7a766e; margin-bottom: 14px; }
+    .price { font-size: 1.5rem; color: #4a7c59; margin-top: 14px; }
+    .contact { text-align: center; background: #f0ebe1; max-width: 100%; }
+    .contact p { max-width: 560px; margin: 0 auto 14px; }
+    footer { text-align: center; padding: 24px; font-family: Arial, sans-serif; font-size: 0.85rem; color: #8a867e; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Joy Lima Therapy</h1>
+    <p>Find calm, balance and inner strength through touch, movement and mindful coaching, in the heart of Amsterdam.</p>
+    <a class="btn" href="https://wa.me/31627617780?text=Hi%20Joy%2C%20I%27d%20like%20to%20book%20a%20session.">Book via WhatsApp</a>
+  </header>
+
+  <section class="about">
+    <h2>About me</h2>
+    <p>I am Joy Lima, a biodynamic therapist based in Amsterdam. My work is dedicated to guiding people toward calm, balance and inner strength through practical tools that support mental and emotional wellbeing.</p>
+    <p>Every session is gentle, personal and adapted to what your body and mind need.</p>
+  </section>
+
+  <section>
+    <h2>Sessions</h2>
+    <div class="services">
+
+      <div class="card">
+        <h3>Biodynamic Massage</h3>
+        <div class="meta">1 hour 15 minutes</div>
+        <p>A gentle, nurturing practice that helps your body release tension and restore balance.</p>
+        <div class="price">€90</div>
+      </div>
+
+      <div class="card">
+        <h3>Yoga Therapy</h3>
+        <div class="meta">40 minutes</div>
+        <p>Personalized sessions to release tension, restore balance and reconnect with your body and emotions.</p>
+        <div class="price">€60</div>
+      </div>
+
+      <div class="card">
+        <h3>RES Coaching</h3>
+        <div class="meta">60 minutes</div>
+        <p>A holistic coaching approach that integrates Resilience, Equilibrium and Strength, combining biodynamic principles with practical guidance.</p>
+        <div class="price">€100</div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Book your session</h2>
+    <p>Brouwersgracht 270a, 1013 HG Amsterdam, Netherlands</p>
+    <p>Send me a message on WhatsApp and we will find a time that works for you.</p>
+    <a class="btn" href="https://wa.me/31627617780?text=Hi%20Joy%2C%20I%27d%20like%20to%20book%20a%20session.">Message me on WhatsApp</a>
+  </section>
+
+  <footer>
+    &copy; 2026 Joy Lima Therapy. All rights reserved.
+  </footer>
+
+</body>
+</html>
